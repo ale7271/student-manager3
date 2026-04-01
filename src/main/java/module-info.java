@@ -3,6 +3,6 @@ module com.example.studentmanager_ale {
     requires javafx.fxml;
 
 
-    opens com.example.studentmanager_ale to javafx.fxml;
-    exports com.example.studentmanager_ale;
+    opens loose.oose.fis.lab.student.manager to javafx.fxml;
+    exports loose.oose.fis.lab.student.manager;
 }
